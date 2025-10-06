@@ -4,6 +4,6 @@ It includes:
 
 A complete database schema (DDL) for products, customers, orders, reviews, shipping, discounts, and coupons.
 
-Over 50 SQL queries for business insights such as top-selling products, customer lifetime value, discount analysis, and shipping performance.
+Over 50 SQL queries for business insights and 10 SQL  queries for top-selling products, customer lifetime value, discount analysis, and shipping performance.
 
 The project is perfect for students and analysts who want to strengthen their SQL and data analytics skills through a realistic retail dataset.
